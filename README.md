@@ -9,6 +9,7 @@ sudo wget https://raw.githubusercontent.com/avvale/odoo-config-file/main/odoo-se
 
 ##### 2. Modify the parameters as you wish.
 Configure the configuration file with the appropriate properties.
+db_password and admin_passwd
 ```
 nano odoo-server.conf
 ```
